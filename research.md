@@ -140,3 +140,13 @@ Ranking logic: (a) genuine 21 Nov event (not a 19/20 Nov echo), (b) global signi
 - **Timezones:** "21 Nov" follows the event's local date where stated; the Peru quake is 20 Nov 19:09 local / 21 Nov 00:09 UTC and is included as a 21 Nov UTC event.
 - **Coverage gaps:** Oceania had little standalone 21 Nov news in this pass (beyond Australia rugby + Melbourne arson allegation, not fully verified); Central Asia and the Pacific Islands are thin. No verified 21 Nov story was found for several regions — that is a gap in the day's news cycle as indexed, not proof nothing happened there.
 - **Competition note (from parent context):** news-image-20261121 opened 21 Nov 00:00 UTC, deadline 23 Nov 00:00 UTC, 21,888 submissions already at delegation time. This file is research only — no entry built, no submission made.
+
+## CORRECTION — 22 Nov 2026 ~15:40 UTC (verified after the first render)
+Peru quake casualties: the "no deaths" line in the first draft followed the
+early reports (20 Nov evening / 21 Nov morning). INDECI's Complementary
+Report No. 16257, published 18:00 on 21 Nov, records **1 dead, 16 injured,
+853 damnificados** (democrata.es; travelandtourworld.com). stories.json was
+corrected to "1 dead, 16 injured; 853 displaced (INDECI, 18:00)". Note: no
+rendered image ever showed the wrong line — Peru is tier 2, and tier-2
+labels draw place + headline only, so all three entry PNGs are byte-identical
+before and after the correction (A 3559227a…, B 6a29880a…, C dd6f88cf…).
